@@ -41,6 +41,7 @@
 * [Best Practices](#best-practices)
 * [Platforms](#roll-dice-on-each-platform)
 * [Discord bot](#discord-bot)
+   *  [Prefix management](#prefix-management)
 * [Bug report](#bug-report-and-new-features)
 
 # Documentation:
